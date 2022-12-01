@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /00x0-shell_basics
+ls /00x0-shell_basics
