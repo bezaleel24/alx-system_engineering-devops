@@ -1,2 +1,2 @@
 #!/bin/bash
-./1-listit
+ls -l /00x0-shell_basics
